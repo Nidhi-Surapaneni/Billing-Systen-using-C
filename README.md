@@ -27,8 +27,9 @@ the final bill can be obtained.After this you can terminate otherwise you can pr
 
 Execution:
 Run the following coomand on the prompt to execute the code.
-gcc filename.c
-./a.out (Ubuntu)
-a.exe (Windows)
+
+   gcc filename.c
+   ./a.out (Ubuntu)
+   a.exe (Windows)
 
    
