@@ -29,7 +29,9 @@ Execution:
 Run the following coomand on the prompt to execute the code.
 
    gcc filename.c
+   
    ./a.out (Ubuntu)
+   
    a.exe (Windows)
 
    
