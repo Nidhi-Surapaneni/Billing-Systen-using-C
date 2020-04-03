@@ -1,4 +1,4 @@
-# Billing-Systen-using-C
+# Billing-System-in-C
 You can able to insert,display,delete and generate bill 
 
 
